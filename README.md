@@ -1,6 +1,6 @@
 # stock_picker
 
-### An exercise in returning specific array values in Ruby from [The Odin Project](http://www.theodinproject.com/ruby-programming/building-blocks).  
+### An exercise in returning specific Ruby array values in from [The Odin Project](http://www.theodinproject.com/ruby-programming/building-blocks).  
 
 stock_picker takes one array parameter, representing the daily prices of a stock. An array is returned with the best price to buy a stock (the minimum value) and the best price to sell a stock (the maximum value).  
 
